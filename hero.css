@@ -3,7 +3,7 @@ body{
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	line-height: 30px;
-	background-color: darkgreen;
+	
 }
 header{
 	background-color:darkgreen;
@@ -35,6 +35,7 @@ main image{
 h2{
 	font-size: 30px;
 	color: darkgreen;
+	margin: 40px 0px 10px;
 }
 a{
 	color: darkgreen;
@@ -61,3 +62,8 @@ footer a:hover{
 	background-color: transparent;
 }
 
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 0;
+}
